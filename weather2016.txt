@@ -1,0 +1,366 @@
+Date: 20160101, Condition: Overcast, Temperature: 28
+Date: 20160102, Condition: Overcast, Temperature: 27
+Date: 20160103, Condition: Overcast, Temperature: 28
+Date: 20160104, Condition: Light Snow, Temperature: 8
+Date: 20160105, Condition: Clear, Temperature: 16
+Date: 20160106, Condition: Clear, Temperature: 22
+Date: 20160107, Condition: Clear, Temperature: 28
+Date: 20160108, Condition: Overcast, Temperature: 28
+Date: 20160109, Condition: Overcast, Temperature: 40
+Date: 20160110, Condition: Overcast, Temperature: 40
+Date: 20160111, Condition: Mostly Cloudy, Temperature: 20
+Date: 20160112, Condition: Light Snow, Temperature: 22
+Date: 20160113, Condition: Mostly Cloudy, Temperature: 17
+Date: 20160114, Condition: Light Snow, Temperature: 20
+Date: 20160115, Condition: Clear, Temperature: 32
+Date: 20160116, Condition: Overcast, Temperature: 34
+Date: 20160117, Condition: Light Snow, Temperature: 24
+Date: 20160118, Condition: Light Snow, Temperature: 16
+Date: 20160119, Condition: Light Snow, Temperature: 16
+Date: 20160120, Condition: Light Snow, Temperature: 20
+Date: 20160121, Condition: Light Snow, Temperature: 12
+Date: 20160122, Condition: Clear, Temperature: 10
+Date: 20160123, Condition: Clear, Temperature: 16
+Date: 20160124, Condition: Light Snow, Temperature: 21
+Date: 20160125, Condition: Clear, Temperature: 22
+Date: 20160126, Condition: Overcast, Temperature: 41
+Date: 20160127, Condition: Overcast, Temperature: 30
+Date: 20160128, Condition: Clear, Temperature: 28
+Date: 20160129, Condition: Light Snow, Temperature: 26
+Date: 20160130, Condition: Clear, Temperature: 32
+Date: 20160131, Condition: Mostly Cloudy, Temperature: 47
+Date: 20160201, Condition: Mostly Cloudy, Temperature: 34
+Date: 20160202, Condition: Clear, Temperature: 34
+Date: 20160203, Condition: Light Rain, Temperature: 44
+Date: 20160204, Condition: Overcast, Temperature: 36
+Date: 20160205, Condition: Light Snow, Temperature: 27
+Date: 20160206, Condition: Overcast, Temperature: 30
+Date: 20160207, Condition: Clear, Temperature: 31
+Date: 20160208, Condition: Clear, Temperature: 32
+Date: 20160209, Condition: Light Snow, Temperature: 32
+Date: 20160210, Condition: Light Snow, Temperature: 23
+Date: 20160211, Condition: Light Snow, Temperature: 12
+Date: 20160212, Condition: Clear, Temperature: 14
+Date: 20160213, Condition: Light Snow, Temperature: 5
+Date: 20160214, Condition: Light Snow, Temperature: 0
+Date: 20160215, Condition: Overcast, Temperature: 10
+Date: 20160216, Condition: Light Rain, Temperature: 32
+Date: 20160217, Condition: Light Snow, Temperature: 26
+Date: 20160218, Condition: Light Snow, Temperature: 11
+Date: 20160219, Condition: Overcast, Temperature: 18
+Date: 20160220, Condition: Clear, Temperature: 44
+Date: 20160221, Condition: Overcast, Temperature: 32
+Date: 20160222, Condition: Clear, Temperature: 25
+Date: 20160223, Condition: Clear, Temperature: 28
+Date: 20160224, Condition: Overcast, Temperature: 42
+Date: 20160225, Condition: Light Snow, Temperature: 38
+Date: 20160226, Condition: Light Snow, Temperature: 20
+Date: 20160227, Condition: Clear, Temperature: 24
+Date: 20160228, Condition: Clear, Temperature: 48
+Date: 20160229, Condition: Overcast, Temperature: 40
+Date: 20160301, Condition: Mostly Cloudy, Temperature: 33
+Date: 20160302, Condition: Mostly Cloudy, Temperature: 34
+Date: 20160303, Condition: Mostly Cloudy, Temperature: 18
+Date: 20160304, Condition: Light Snow, Temperature: 24
+Date: 20160305, Condition: Overcast, Temperature: 20
+Date: 20160306, Condition: Light Snow, Temperature: 31
+Date: 20160307, Condition: Mostly Cloudy, Temperature: 45
+Date: 20160308, Condition: Clear, Temperature: 52
+Date: 20160309, Condition: Clear, Temperature: 60
+Date: 20160310, Condition: Light Rain, Temperature: 52
+Date: 20160311, Condition: Light Rain, Temperature: 35
+Date: 20160312, Condition: Clear, Temperature: 44
+Date: 20160313, Condition: Clear, Temperature: 44
+Date: 20160314, Condition: Overcast, Temperature: 44
+Date: 20160315, Condition: Overcast, Temperature: 46
+Date: 20160316, Condition: Overcast, Temperature: 50
+Date: 20160317, Condition: Clear, Temperature: 46
+Date: 20160318, Condition: Overcast, Temperature: 36
+Date: 20160319, Condition: Clear, Temperature: 26
+Date: 20160320, Condition: Mostly Cloudy, Temperature: 26
+Date: 20160321, Condition: Light Snow, Temperature: 28
+Date: 20160322, Condition: Mostly Cloudy, Temperature: 36
+Date: 20160323, Condition: Overcast, Temperature: 42
+Date: 20160324, Condition: Fog, Temperature: 52
+Date: 20160325, Condition: Overcast, Temperature: 44
+Date: 20160326, Condition: Clear, Temperature: 40
+Date: 20160327, Condition: Clear, Temperature: 46
+Date: 20160328, Condition: Overcast, Temperature: 45
+Date: 20160329, Condition: Clear, Temperature: 32
+Date: 20160330, Condition: Clear, Temperature: 40
+Date: 20160331, Condition: Clear, Temperature: 58
+Date: 20160401, Condition: Mostly Cloudy, Temperature: 54
+Date: 20160402, Condition: Light Snow, Temperature: 39
+Date: 20160403, Condition: Light Snow, Temperature: 26
+Date: 20160404, Condition: Light Snow, Temperature: 22
+Date: 20160405, Condition: Clear, Temperature: 14
+Date: 20160406, Condition: Clear, Temperature: 26
+Date: 20160407, Condition: Mostly Cloudy, Temperature: 42
+Date: 20160408, Condition: Light Snow, Temperature: 30
+Date: 20160409, Condition: Mostly Cloudy, Temperature: 26
+Date: 20160410, Condition: Overcast, Temperature: 30
+Date: 20160411, Condition: Overcast, Temperature: 44
+Date: 20160412, Condition: Mostly Cloudy, Temperature: 40
+Date: 20160413, Condition: Clear, Temperature: 33
+Date: 20160414, Condition: Clear, Temperature: 37
+Date: 20160415, Condition: Clear, Temperature: 45
+Date: 20160416, Condition: Clear, Temperature: 50
+Date: 20160417, Condition: Clear, Temperature: 53
+Date: 20160418, Condition: Clear, Temperature: 52
+Date: 20160419, Condition: Clear, Temperature: 48
+Date: 20160420, Condition: Clear, Temperature: 44
+Date: 20160421, Condition: Clear, Temperature: 56
+Date: 20160422, Condition: Light Rain, Temperature: 58
+Date: 20160423, Condition: Overcast, Temperature: 45
+Date: 20160424, Condition: Clear, Temperature: 41
+Date: 20160425, Condition: Overcast, Temperature: 50
+Date: 20160426, Condition: Overcast, Temperature: 40
+Date: 20160427, Condition: Clear, Temperature: 38
+Date: 20160428, Condition: Clear, Temperature: 42
+Date: 20160429, Condition: Overcast, Temperature: 46
+Date: 20160430, Condition: Overcast, Temperature: 51
+Date: 20160501, Condition: Overcast, Temperature: 46
+Date: 20160502, Condition: Overcast, Temperature: 45
+Date: 20160503, Condition: Overcast, Temperature: 46
+Date: 20160504, Condition: Overcast, Temperature: 51
+Date: 20160505, Condition: Overcast, Temperature: 48
+Date: 20160506, Condition: Overcast, Temperature: 50
+Date: 20160507, Condition: Mostly Cloudy, Temperature: 52
+Date: 20160508, Condition: Overcast, Temperature: 48
+Date: 20160509, Condition: Clear, Temperature: 47
+Date: 20160510, Condition: Clear, Temperature: 46
+Date: 20160511, Condition: Clear, Temperature: 54
+Date: 20160512, Condition: Clear, Temperature: 62
+Date: 20160513, Condition: Light Rain, Temperature: 62
+Date: 20160514, Condition: Clear, Temperature: 54
+Date: 20160515, Condition: Overcast, Temperature: 40
+Date: 20160516, Condition: Scattered Clouds, Temperature: 46
+Date: 20160517, Condition: Mostly Cloudy, Temperature: 47
+Date: 20160518, Condition: Clear, Temperature: 48
+Date: 20160519, Condition: Clear, Temperature: 48
+Date: 20160520, Condition: Clear, Temperature: 54
+Date: 20160521, Condition: Overcast, Temperature: 56
+Date: 20160522, Condition: Mostly Cloudy, Temperature: 58
+Date: 20160523, Condition: Clear, Temperature: 60
+Date: 20160524, Condition: Clear, Temperature: 61
+Date: 20160525, Condition: Clear, Temperature: 64
+Date: 20160526, Condition: Clear, Temperature: 68
+Date: 20160527, Condition: Clear, Temperature: 74
+Date: 20160528, Condition: Clear, Temperature: 76
+Date: 20160529, Condition: Scattered Clouds, Temperature: 75
+Date: 20160530, Condition: Clear, Temperature: 72
+Date: 20160531, Condition: Clear, Temperature: 66
+Date: 20160601, Condition: Clear, Temperature: 64
+Date: 20160602, Condition: Clear, Temperature: 68
+Date: 20160603, Condition: Scattered Clouds, Temperature: 70
+Date: 20160604, Condition: Clear, Temperature: 68
+Date: 20160605, Condition: Mostly Cloudy, Temperature: 68
+Date: 20160606, Condition: Clear, Temperature: 66
+Date: 20160607, Condition: Mostly Cloudy, Temperature: 62
+Date: 20160608, Condition: Overcast, Temperature: 50
+Date: 20160609, Condition: Scattered Clouds, Temperature: 55
+Date: 20160610, Condition: Clear, Temperature: 55
+Date: 20160611, Condition: Mostly Cloudy, Temperature: 64
+Date: 20160612, Condition: Overcast, Temperature: 58
+Date: 20160613, Condition: Overcast, Temperature: 55
+Date: 20160614, Condition: Clear, Temperature: 56
+Date: 20160615, Condition: Clear, Temperature: 63
+Date: 20160616, Condition: Mostly Cloudy, Temperature: 69
+Date: 20160617, Condition: Clear, Temperature: 68
+Date: 20160618, Condition: Clear, Temperature: 67
+Date: 20160619, Condition: Clear, Temperature: 70
+Date: 20160620, Condition: Clear, Temperature: 72
+Date: 20160621, Condition: Clear, Temperature: 66
+Date: 20160622, Condition: Mostly Cloudy, Temperature: 62
+Date: 20160623, Condition: Clear, Temperature: 60
+Date: 20160624, Condition: Clear, Temperature: 63
+Date: 20160625, Condition: Clear, Temperature: 69
+Date: 20160626, Condition: Clear, Temperature: 76
+Date: 20160627, Condition: Scattered Clouds, Temperature: 74
+Date: 20160628, Condition: Mostly Cloudy, Temperature: 71
+Date: 20160629, Condition: Mostly Cloudy, Temperature: 64
+Date: 20160630, Condition: Clear, Temperature: 66
+Date: 20160701, Condition: Scattered Clouds, Temperature: 66
+Date: 20160702, Condition: Mostly Cloudy, Temperature: 64
+Date: 20160703, Condition: Clear, Temperature: 62
+Date: 20160704, Condition: Clear, Temperature: 68
+Date: 20160705, Condition: Mostly Cloudy, Temperature: 74
+Date: 20160706, Condition: Clear, Temperature: 74
+Date: 20160707, Condition: Mostly Cloudy, Temperature: 76
+Date: 20160708, Condition: Scattered Clouds, Temperature: 74
+Date: 20160709, Condition: Mostly Cloudy, Temperature: 75
+Date: 20160710, Condition: Overcast, Temperature: 62
+Date: 20160711, Condition: Clear, Temperature: 65
+Date: 20160712, Condition: Clear, Temperature: 72
+Date: 20160713, Condition: Clear, Temperature: 80
+Date: 20160714, Condition: Clear, Temperature: 79
+Date: 20160715, Condition: Clear, Temperature: 74
+Date: 20160716, Condition: Mostly Cloudy, Temperature: 67
+Date: 20160717, Condition: Mostly Cloudy, Temperature: 70
+Date: 20160718, Condition: Mostly Cloudy, Temperature: 74
+Date: 20160719, Condition: Mostly Cloudy, Temperature: 66
+Date: 20160720, Condition: Clear, Temperature: 65
+Date: 20160721, Condition: Clear, Temperature: 72
+Date: 20160722, Condition: Mostly Cloudy, Temperature: 82
+Date: 20160723, Condition: Clear, Temperature: 76
+Date: 20160724, Condition: Clear, Temperature: 72
+Date: 20160725, Condition: Partly Cloudy, Temperature: 73
+Date: 20160726, Condition: Partly Cloudy, Temperature: 70
+Date: 20160727, Condition: Clear, Temperature: 72
+Date: 20160728, Condition: Clear, Temperature: 73
+Date: 20160729, Condition: Clear, Temperature: 72
+Date: 20160730, Condition: Mostly Cloudy, Temperature: 64
+Date: 20160731, Condition: Overcast, Temperature: 72
+Date: 20160801, Condition: Mostly Cloudy, Temperature: 73
+Date: 20160802, Condition: Overcast, Temperature: 71
+Date: 20160803, Condition: Overcast, Temperature: 72
+Date: 20160804, Condition: Scattered Clouds, Temperature: 75
+Date: 20160805, Condition: Clear, Temperature: 76
+Date: 20160806, Condition: Mostly Cloudy, Temperature: 70
+Date: 20160807, Condition: Scattered Clouds, Temperature: 68
+Date: 20160808, Condition: Clear, Temperature: 68
+Date: 20160809, Condition: Clear, Temperature: 72
+Date: 20160810, Condition: Mostly Cloudy, Temperature: 78
+Date: 20160811, Condition: Clear, Temperature: 78
+Date: 20160812, Condition: Scattered Clouds, Temperature: 82
+Date: 20160813, Condition: Mostly Cloudy, Temperature: 82
+Date: 20160814, Condition: Mostly Cloudy, Temperature: 72
+Date: 20160815, Condition: Mostly Cloudy, Temperature: 70
+Date: 20160816, Condition: Mostly Cloudy, Temperature: 78
+Date: 20160817, Condition: Mostly Cloudy, Temperature: 71
+Date: 20160818, Condition: Mostly Cloudy, Temperature: 72
+Date: 20160819, Condition: Scattered Clouds, Temperature: 70
+Date: 20160820, Condition: Clear, Temperature: 73
+Date: 20160821, Condition: Mostly Cloudy, Temperature: 66
+Date: 20160822, Condition: Scattered Clouds, Temperature: 60
+Date: 20160823, Condition: Clear, Temperature: 63
+Date: 20160824, Condition: Clear, Temperature: 68
+Date: 20160825, Condition: Mostly Cloudy, Temperature: 76
+Date: 20160826, Condition: Overcast, Temperature: 73
+Date: 20160827, Condition: Partly Cloudy, Temperature: 70
+Date: 20160828, Condition: Clear, Temperature: 75
+Date: 20160829, Condition: Mostly Cloudy, Temperature: 67
+Date: 20160830, Condition: Clear, Temperature: 66
+Date: 20160831, Condition: Overcast, Temperature: 68
+Date: 20160901, Condition: Scattered Clouds, Temperature: 63
+Date: 20160902, Condition: Scattered Clouds, Temperature: 60
+Date: 20160903, Condition: Clear, Temperature: 58
+Date: 20160904, Condition: Clear, Temperature: 62
+Date: 20160905, Condition: Clear, Temperature: 68
+Date: 20160906, Condition: Clear, Temperature: 66
+Date: 20160907, Condition: Clear, Temperature: 71
+Date: 20160908, Condition: Scattered Clouds, Temperature: 76
+Date: 20160909, Condition: Overcast, Temperature: 72
+Date: 20160910, Condition: Mostly Cloudy, Temperature: 75
+Date: 20160911, Condition: Light Rain, Temperature: 64
+Date: 20160912, Condition: Clear, Temperature: 60
+Date: 20160913, Condition: Clear, Temperature: 65
+Date: 20160914, Condition: Mostly Cloudy, Temperature: 61
+Date: 20160915, Condition: Clear, Temperature: 54
+Date: 20160916, Condition: Clear, Temperature: 60
+Date: 20160917, Condition: Mostly Cloudy, Temperature: 65
+Date: 20160918, Condition: Mostly Cloudy, Temperature: 73
+Date: 20160919, Condition: Scattered Clouds, Temperature: 69
+Date: 20160920, Condition: Clear, Temperature: 70
+Date: 20160921, Condition: Clear, Temperature: 64
+Date: 20160922, Condition: Clear, Temperature: 68
+Date: 20160923, Condition: Overcast, Temperature: 64
+Date: 20160924, Condition: Clear, Temperature: 52
+Date: 20160925, Condition: Clear, Temperature: 48
+Date: 20160926, Condition: Clear, Temperature: 55
+Date: 20160927, Condition: Clear, Temperature: 58
+Date: 20160928, Condition: Clear, Temperature: 60
+Date: 20160929, Condition: Overcast, Temperature: 54
+Date: 20160930, Condition: Light Rain, Temperature: 54
+Date: 20161001, Condition: Overcast, Temperature: 57
+Date: 20161002, Condition: Overcast, Temperature: 60
+Date: 20161003, Condition: Mostly Cloudy, Temperature: 57
+Date: 20161004, Condition: Overcast, Temperature: 60
+Date: 20161005, Condition: Clear, Temperature: 56
+Date: 20161006, Condition: Clear, Temperature: 60
+Date: 20161007, Condition: Clear, Temperature: 60
+Date: 20161008, Condition: Overcast, Temperature: 58
+Date: 20161009, Condition: Mostly Cloudy, Temperature: 50
+Date: 20161010, Condition: Clear, Temperature: 42
+Date: 20161011, Condition: Clear, Temperature: 47
+Date: 20161012, Condition: Clear, Temperature: 58
+Date: 20161013, Condition: Clear, Temperature: 47
+Date: 20161014, Condition: Clear, Temperature: 42
+Date: 20161015, Condition: Clear, Temperature: 50
+Date: 20161016, Condition: Overcast, Temperature: 63
+Date: 20161017, Condition: Overcast, Temperature: 64
+Date: 20161018, Condition: Clear, Temperature: 72
+Date: 20161019, Condition: Mostly Cloudy, Temperature: 56
+Date: 20161020, Condition: Overcast, Temperature: 56
+Date: 20161021, Condition: Light Rain, Temperature: 48
+Date: 20161022, Condition: Light Rain, Temperature: 42
+Date: 20161023, Condition: Mostly Cloudy, Temperature: 46
+Date: 20161024, Condition: Overcast, Temperature: 44
+Date: 20161025, Condition: Overcast, Temperature: 40
+Date: 20161026, Condition: Overcast, Temperature: 36
+Date: 20161027, Condition: Light Snow, Temperature: 37
+Date: 20161028, Condition: Overcast, Temperature: 36
+Date: 20161029, Condition: Clear, Temperature: 49
+Date: 20161030, Condition: Overcast, Temperature: 49
+Date: 20161031, Condition: Overcast, Temperature: 36
+Date: 20161101, Condition: Clear, Temperature: 42
+Date: 20161102, Condition: Mostly Cloudy, Temperature: 58
+Date: 20161103, Condition: Mostly Cloudy, Temperature: 52
+Date: 20161104, Condition: Light Rain, Temperature: 39
+Date: 20161105, Condition: Overcast, Temperature: 46
+Date: 20161106, Condition: Clear, Temperature: 40
+Date: 20161107, Condition: Clear, Temperature: 42
+Date: 20161108, Condition: Clear, Temperature: 50
+Date: 20161109, Condition: Light Rain, Temperature: 42
+Date: 20161110, Condition: Clear, Temperature: 44
+Date: 20161111, Condition: Overcast, Temperature: 44
+Date: 20161112, Condition: Clear, Temperature: 34
+Date: 20161113, Condition: Clear, Temperature: 42
+Date: 20161114, Condition: Clear, Temperature: 42
+Date: 20161115, Condition: Clear, Temperature: 41
+Date: 20161116, Condition: Overcast, Temperature: 42
+Date: 20161117, Condition: Overcast, Temperature: 40
+Date: 20161118, Condition: Clear, Temperature: 50
+Date: 20161119, Condition: Clear, Temperature: 50
+Date: 20161120, Condition: Light Snow, Temperature: 30
+Date: 20161121, Condition: Light Snow, Temperature: 27
+Date: 20161122, Condition: Light Snow, Temperature: 28
+Date: 20161123, Condition: Overcast, Temperature: 29
+Date: 20161124, Condition: Overcast, Temperature: 34
+Date: 20161125, Condition: Overcast, Temperature: 40
+Date: 20161126, Condition: Light Rain, Temperature: 37
+Date: 20161127, Condition: Overcast, Temperature: 36
+Date: 20161128, Condition: Clear, Temperature: 37
+Date: 20161129, Condition: Overcast, Temperature: 48
+Date: 20161130, Condition: Overcast, Temperature: 48
+Date: 20161201, Condition: Overcast, Temperature: 44
+Date: 20161202, Condition: Overcast, Temperature: 36
+Date: 20161203, Condition: Overcast, Temperature: 34
+Date: 20161204, Condition: Overcast, Temperature: 33
+Date: 20161205, Condition: Light Snow, Temperature: 34
+Date: 20161206, Condition: Light Snow, Temperature: 29
+Date: 20161207, Condition: Mostly Cloudy, Temperature: 34
+Date: 20161208, Condition: Light Snow, Temperature: 30
+Date: 20161209, Condition: Light Snow, Temperature: 26
+Date: 20161210, Condition: Light Snow, Temperature: 22
+Date: 20161211, Condition: Light Snow, Temperature: 22
+Date: 20161212, Condition: Light Snow, Temperature: 32
+Date: 20161213, Condition: Overcast, Temperature: 30
+Date: 20161214, Condition: Scattered Clouds, Temperature: 24
+Date: 20161215, Condition: Light Snow, Temperature: 16
+Date: 20161216, Condition: Light Snow, Temperature: 14
+Date: 20161217, Condition: Light Snow, Temperature: 26
+Date: 20161218, Condition: Light Rain, Temperature: 31
+Date: 20161219, Condition: Clear, Temperature: 16
+Date: 20161220, Condition: Clear, Temperature: 17
+Date: 20161221, Condition: Clear, Temperature: 23
+Date: 20161222, Condition: Light Snow, Temperature: 30
+Date: 20161223, Condition: Clear, Temperature: 29
+Date: 20161224, Condition: Overcast, Temperature: 38
+Date: 20161225, Condition: Overcast, Temperature: 27
+Date: 20161226, Condition: Overcast, Temperature: 30
+Date: 20161227, Condition: Overcast, Temperature: 38
+Date: 20161228, Condition: Light Snow, Temperature: 27
+Date: 20161229, Condition: Light Snow, Temperature: 32
+Date: 20161230, Condition: Overcast, Temperature: 27
+Date: 20161231, Condition: Overcast, Temperature: 30
