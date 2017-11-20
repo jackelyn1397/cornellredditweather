@@ -11,10 +11,10 @@ for line in file:
 		sunny+=date+", "
 	elif "Snow" in condition:
 		snow+=date+", "
-	elif "Rain" in condition:
-		rain+=date+", "
-	else:
+	elif "Cloud" in condition:
 		cloudy+=date+", "
+	else:
+		rain+=date+", "
 
 print sunny[:-2]
 print cloudy[:-2]
