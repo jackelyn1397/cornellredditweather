@@ -9,9 +9,20 @@ reddit = praw.Reddit(client_id='2uVEdfikHOMbpA',
 reddit.read_only = True
 subreddit = reddit.subreddit('cornell')
 
-postDict = {} 
+postDict = {}
+documents = {'documents':[dict() for x in range(1000)]}
+count = 0
 
-for submission in subreddit.hot(limit=10):
-    print(submission.title)  # Output: the submission's title
-    print(submission.score)  # Output: the submission's score
-    print(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(submission.created)))
+for submission in subreddit.top(limit=1000):
+    documents['documents'][count]['id'] = count
+    documents['documents'][count]['language'] = 'en'
+    documents['documents'][count]['text'] = submission.title
+    documents['documents'][count]['date'] = time.strftime('%Y%m%d', time.localtime(submission.created))
+    #print(submission.title)  # Output: the submission's title
+#    print(submission.score)  # Output: the submission's score
+#    print(time.strftime('%Y%m%d', time.localtime(submission.created)))
+    count += 1
+
+
+
+print(documents)
