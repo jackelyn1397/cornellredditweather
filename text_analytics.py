@@ -8,7 +8,8 @@ import json
 # **********************************************
 
 # Replace the accessKey string value with your valid access key.
-accessKey = '09aed0988aac4d2586f3bcd9d7322991'
+accessKey = '6755d6f172a849f8a3756af0c1c31bd5'
+print accessKey
 
 # Replace or verify the region.
 #
@@ -18,7 +19,7 @@ accessKey = '09aed0988aac4d2586f3bcd9d7322991'
 #
 # NOTE: Free trial access keys are generated in the westcentralus region, so if you are using
 # a free trial access key, you should not need to change this region.
-uri = 'westus.api.cognitive.microsoft.com'
+uri = 'eastus.api.cognitive.microsoft.com'
 path_sentiment = '/text/analytics/v2.0/sentiment'
 path_keyphrases = '/text/analytics/v2.0/keyPhrases'
 
