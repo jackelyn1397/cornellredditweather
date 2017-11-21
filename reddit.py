@@ -17,7 +17,8 @@ def getDocuments(): # returns a dictionary of documents
     for submission in subreddit.top(limit=100):
         documents['documents'][count]['id'] = count
         documents['documents'][count]['language'] = 'en'
-        documents['documents'][count]['text'] = submission.title
+        documents['documents'][count]['title'] = submission.title
+        documents['documents'][count]['body'] = submission.body
         documents['documents'][count]['date'] = time.strftime('%Y%m%d', time.localtime(submission.created))
         #print(submission.title)  # Output: the submission's title
     #    print(submission.score)  # Output: the submission's score
