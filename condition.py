@@ -77,4 +77,3 @@ def snowyDates():
 	return snow
 
 
-	

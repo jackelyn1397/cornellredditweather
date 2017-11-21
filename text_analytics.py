@@ -47,6 +47,7 @@ def GetKeyPhrases (documents):
 
 
 documents = reddit.getDocuments()
+data = documents['documents']
 sunny =  condition.sunnyDates()
 cloudy = condition.cloudyDates()
 rainy = condition.rainyDates()
@@ -55,11 +56,65 @@ cold = temperature.coldDates()
 medium = temperature.mediumDates()
 hot = temperature.hotDates()
 
-#result_sentiment = GetSentiment (documents)
+result_json = GetSentiment(documents)
+result_sentiment = json.loads(result_json)['documents']
+
 #result_keyphrases = GetKeyPhrases (documents)
 
-#print (json.dumps(json.loads(result_sentiment), indent=4))
+#result_sentiment = (json.dumps(json.loads(result_sentiment1), indent=4))
 #print (json.dumps(json.loads(result_keyphrases), indent=4))
+
+sunny_score=[]
+cloudy_score=[]
+rainy_score=[]
+snowy_score=[]
+cold_score=[]
+medium_score=[]
+hot_score=[]
+
+
+for i in range(len(result_sentiment)):
+	ID = int(result_sentiment[i]['id'])
+	for j in range(len(data)):
+		if ID == int(data[j]['id']):
+			date = data[j]['date']
+			if date in sunny:
+				sunny_score.append(float(result_sentiment[i]['score']))
+			elif date in cloudy:
+				cloudy_score.append(float(result_sentiment[i]['score']))
+			elif date in rainy:
+				rainy_score.append(float(result_sentiment[i]['score']))
+			else:
+				snowy_score.append(float(result_sentiment[i]['score']))
+			if date in cold:
+				cold_score.append(float(result_sentiment[i]['score']))
+			elif date in medium:
+				medium_score.append(float(result_sentiment[i]['score']))
+			else:
+				hot_score.append(float(result_sentiment[i]['score']))
+
+print sunny_score
+print cloudy_score
+print rainy_score
+print snowy_score
+print cold_score
+print medium_score
+print hot_score
+
+def calculateMean(arr):
+	count = 0
+	for i in range(len(arr)):
+		count+=arr[i]
+	return count/float(len(arr))
+
+print "Sunny: "+str(calculateMean(sunny_score))
+print "Cloudy: "+str(calculateMean(cloudy_score))
+print "Rainy: "+str(calculateMean(rainy_score))
+print "Snowy: "+str(calculateMean(snowy_score))
+print "Cold: "+str(calculateMean(cold_score))
+print "Medium: "+str(calculateMean(medium_score))
+print "Hot: "+str(calculateMean(hot_score))
+
 
 sunny_text=""
 cloudy_text=""
@@ -69,7 +124,6 @@ cold_text=""
 medium_text=""
 hot_text=""
 
-data = documents['documents']
 for i in range(len(data)):
 	date = data[i]['date']
 	ID = data[i]['id']
