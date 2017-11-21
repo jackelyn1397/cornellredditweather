@@ -2,6 +2,9 @@
 
 import httplib, urllib
 import json
+import reddit
+import condition
+import temperature
 
 # **********************************************
 # *** Update or verify the following values. ***
@@ -9,7 +12,6 @@ import json
 
 # Replace the accessKey string value with your valid access key.
 accessKey = '6755d6f172a849f8a3756af0c1c31bd5'
-print accessKey
 
 # Replace or verify the region.
 #
@@ -44,18 +46,77 @@ def GetKeyPhrases (documents):
     return response.read ()
 
 
-documents = { 'documents': [
-    { 'id': '1', 'language': 'en', 'text': 'I really enjoy the new XBox One S. It has a clean look, it has 4K/HDR resolution and it is affordable.' },
-    { 'id': '2', 'language': 'es', 'text': 'Si usted quiere comunicarse con Carlos, usted debe de llamarlo a su telefono movil. Carlos es muy responsable, pero necesita recibir una notificacion si hay algun problema.' },
-    { 'id': '3', 'language': 'en', 'text': 'The Grand Hotel is a new hotel in the center of Seattle. It earned 5 stars in my review, and has the classiest decor I\'ve ever seen.' }
-]}
+documents = reddit.getDocuments()
+sunny =  condition.sunnyDates()
+cloudy = condition.cloudyDates()
+rainy = condition.rainyDates()
+snowy = condition.snowyDates()
+cold = temperature.coldDates()
+medium = temperature.mediumDates()
+hot = temperature.hotDates()
 
-print 'Please wait a moment for the results to appear.\n'
+#result_sentiment = GetSentiment (documents)
+#result_keyphrases = GetKeyPhrases (documents)
 
-result_sentiment = GetSentiment (documents)
-result_keyphrases = GetKeyPhrases (documents)
+#print (json.dumps(json.loads(result_sentiment), indent=4))
+#print (json.dumps(json.loads(result_keyphrases), indent=4))
 
-print (json.dumps(json.loads(result_sentiment), indent=4))
-print (json.dumps(json.loads(result_keyphrases), indent=4))
+sunny_text=""
+cloudy_text=""
+rainy_text=""
+snowy_text=""
+cold_text=""
+medium_text=""
+hot_text=""
+
+data = documents['documents']
+for i in range(len(data)):
+	date = data[i]['date']
+	ID = data[i]['id']
+	text = data[i]['text']
+	if date in sunny:
+		sunny_text+=text+" "
+	elif date in cloudy:
+		cloudy_text+=text+" "
+	elif date in rainy:
+		rainy_text+=text+" "
+	else:
+		snowy_text+=text+" "
+	if date in cold:
+		cold_text+=text+" "
+	elif date in medium:
+		medium_text+=text+" "
+	else:
+		hot_text+=text+" "
+
+file = open("sunny_text.txt", "w")
+file.write(sunny_text.encode('ascii', errors='ignore'))
+file.close
+
+file = open("cloudy_text.txt", "w")
+file.write(cloudy_text.encode('ascii', errors='ignore'))
+file.close
+
+file = open("rainy_text.txt", "w")
+file.write(rainy_text.encode('ascii', errors='ignore'))
+file.close
+
+file = open("snowy_text.txt", "w")
+file.write(snowy_text.encode('ascii', errors='ignore'))
+file.close
+
+file = open("cold_text.txt", "w")
+file.write(cold_text.encode('ascii', errors='ignore'))
+file.close
+
+file = open("medium_text.txt", "w")
+file.write(medium_text.encode('ascii', errors='ignore'))
+file.close
+
+file = open("hot_text.txt", "w")
+file.write(hot_text.encode('ascii', errors='ignore'))
+file.close
+	
+
 
 

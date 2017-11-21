@@ -1,0 +1,97 @@
+Date: 20171112, Condition: Clear, Temperature: 32
+Date: 20170128, Condition: Light Snow, Temperature: 28
+Date: 20161211, Condition: Light Snow, Temperature: 22
+Date: 20160307, Condition: Mostly Cloudy, Temperature: 45
+Date: 20171008, Condition: Mostly Cloudy, Temperature: 67
+Date: 20170405, Condition: Overcast, Temperature: 45
+Date: 20171029, Condition: Light Rain, Temperature: 44
+Date: 20170414, Condition: Clear, Temperature: 46
+Date: 20161214, Condition: Scattered Clouds, Temperature: 24
+Date: 20171111, Condition: Clear, Temperature: 24
+Date: 20170204, Condition: Scattered Clouds, Temperature: 21
+Date: 20170718, Condition: Scattered Clouds, Temperature: 71
+Date: 20170922, Condition: Clear, Temperature: 64
+Date: 20170603, Condition: Clear, Temperature: 54
+Date: 20170528, Condition: Overcast, Temperature: 64
+Date: 20170131, Condition: Light Snow, Temperature: 19
+Date: 20130123, Condition: Clear, Temperature: 4
+Date: 20171113, Condition: Overcast, Temperature: 38
+Date: 20170926, Condition: Clear, Temperature: 76
+Date: 20151209, Condition: Clear, Temperature: 40
+Date: 20161205, Condition: Light Snow, Temperature: 34
+Date: 20161114, Condition: Clear, Temperature: 42
+Date: 20150420, Condition: Mostly Cloudy, Temperature: 55
+Date: 20170803, Condition: Scattered Clouds, Temperature: 74
+Date: 20170411, Condition: Clear, Temperature: 63
+Date: 20140514, Condition: Overcast, Temperature: 68
+Date: 20171027, Condition: Clear, Temperature: 46
+Date: 20151202, Condition: Light Rain, Temperature: 42
+Date: 20161217, Condition: Light Snow, Temperature: 26
+Date: 20130304, Condition: Overcast, Temperature: 23
+Date: 20151109, Condition: Clear, Temperature: 42
+Date: 20170117, Condition: Overcast, Temperature: 35
+Date: 20151205, Condition: Overcast, Temperature: 36
+Date: 20161105, Condition: Overcast, Temperature: 46
+Date: 20160118, Condition: Light Snow, Temperature: 16
+Date: 20130423, Condition: Clear, Temperature: 45
+Date: 20120925, Condition: Clear, Temperature: 56
+Date: 20140205, Condition: Light Snow, Temperature: 20
+Date: 20130426, Condition: Clear, Temperature: 42
+Date: 20120531, Condition: Clear, Temperature: 56
+Date: 20171007, Condition: Clear, Temperature: 72
+Date: 20170519, Condition: Mostly Cloudy, Temperature: 59
+Date: 20161225, Condition: Overcast, Temperature: 27
+Date: 20160925, Condition: Clear, Temperature: 48
+Date: 20160828, Condition: Clear, Temperature: 75
+Date: 20130510, Condition: Clear, Temperature: 59
+Date: 20121219, Condition: Overcast, Temperature: 34
+Date: 20161215, Condition: Light Snow, Temperature: 16
+Date: 20160606, Condition: Clear, Temperature: 66
+Date: 20110824, Condition: Clear, Temperature: 68
+Date: 20170217, Condition: Light Snow, Temperature: 26
+Date: 20160715, Condition: Clear, Temperature: 74
+Date: 20130326, Condition: Overcast, Temperature: 34
+Date: 20161127, Condition: Overcast, Temperature: 36
+Date: 20170915, Condition: Clear, Temperature: 65
+Date: 20170701, Condition: Mostly Cloudy, Temperature: 72
+Date: 20150414, Condition: Clear, Temperature: 49
+Date: 20161002, Condition: Overcast, Temperature: 60
+Date: 20140326, Condition: Light Snow, Temperature: 20
+Date: 20120314, Condition: Clear, Temperature: 46
+Date: 20170921, Condition: Fog, Temperature: 66
+Date: 20130523, Condition: Overcast, Temperature: 68
+Date: 20170806, Condition: Clear, Temperature: 60
+Date: 20170202, Condition: Light Snow, Temperature: 24
+Date: 20120521, Condition: Clear, Temperature: 66
+Date: 20171118, Condition: Overcast, Temperature: 38
+Date: 20171108, Condition: Clear, Temperature: 32
+Date: 20170314, Condition: Light Snow, Temperature: 18
+Date: 20161013, Condition: Clear, Temperature: 47
+Date: 20150914, Condition: Light Rain, Temperature: 58
+Date: 20120914, Condition: Clear, Temperature: 68
+Date: 20111228, Condition: Light Snow, Temperature: 27
+Date: 20170506, Condition: Light Rain, Temperature: 51
+Date: 20140311, Condition: Clear, Temperature: 43
+Date: 20130227, Condition: Light Snow, Temperature: 34
+Date: 20120504, Condition: Mostly Cloudy, Temperature: 66
+Date: 20120423, Condition: Light Snow, Temperature: 32
+Date: 20171117, Condition: Overcast, Temperature: 30
+Date: 20170331, Condition: Light Rain, Temperature: 37
+Date: 20121010, Condition: Overcast, Temperature: 49
+Date: 20120106, Condition: Clear, Temperature: 41
+Date: 20111219, Condition: Overcast, Temperature: 36
+Date: 20170518, Condition: Scattered Clouds, Temperature: 75
+Date: 20150404, Condition: Light Rain, Temperature: 38
+Date: 20130709, Condition: Clear, Temperature: 73
+Date: 20171106, Condition: Overcast, Temperature: 49
+Date: 20170919, Condition: Clear, Temperature: 70
+Date: 20170527, Condition: Overcast, Temperature: 60
+Date: 20170426, Condition: Scattered Clouds, Temperature: 63
+Date: 20170407, Condition: Light Snow, Temperature: 34
+Date: 20121028, Condition: Fog, Temperature: 43
+Date: 20120907, Condition: Scattered Clouds, Temperature: 70
+Date: 20120412, Condition: Mostly Cloudy, Temperature: 42
+Date: 20171020, Condition: Clear, Temperature: 50
+Date: 20161207, Condition: Mostly Cloudy, Temperature: 34
+Date: 20161022, Condition: Light Rain, Temperature: 42
+Date: 20160904, Condition: Clear, Temperature: 62

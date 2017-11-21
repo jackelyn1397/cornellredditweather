@@ -11,10 +11,10 @@ def getDocuments(): # returns a dictionary of documents
     subreddit = reddit.subreddit('cornell')
 
     postDict = {}
-    documents = {'documents':[dict() for x in range(1000)]}
+    documents = {'documents':[dict() for x in range(100)]}
     count = 0
 
-    for submission in subreddit.top(limit=1000):
+    for submission in subreddit.top(limit=100):
         documents['documents'][count]['id'] = count
         documents['documents'][count]['language'] = 'en'
         documents['documents'][count]['text'] = submission.title

@@ -1,5 +1,9 @@
 import urllib2
 import json
+import reddit
+import time
+
+"""
 year = 2016
 maxDays = 0
 for m in range(1, 13):
@@ -43,8 +47,39 @@ for m in range(1, 13):
 				condition = key
 		print "Date: %s, Condition: %s, Temperature: %s" % (api_date, condition, temp)
 		f.close()
-
 """
+
+documents = reddit.getDocuments()['documents']
+dateArr = []
+
+for i in range(len(documents)):
+	date = documents[i]['date']
+	if date not in dateArr:
+		dateArr.append(date)
+		f = urllib2.urlopen('http://api.wunderground.com/api/ee7193fad42bdca9/history_'+date+'/q/NY/Ithaca.json')
+		json_string = f.read()
+		parsed_json = json.loads(json_string)
+		#date = parsed_json['history']['date']['pretty']
+		temp = parsed_json['history']['dailysummary'][0]['meantempi']
+		numHours = len(parsed_json['history']['observations'])
+		dictionary = {}
+		for i in range(numHours):
+			cond = parsed_json['history']['observations'][i]['conds']
+			if cond in dictionary:
+				dictionary[cond] = dictionary[cond]+1
+			else:
+				dictionary[cond] = 1
+		num = 0
+		condition = ""
+		for key, value in dictionary.items():
+			if value > num:
+				num = value
+				condition = key
+		print "Date: %s, Condition: %s, Temperature: %s" % (date, condition, temp)
+		f.close()
+		time.sleep(5)
+"""
+
 f = urllib2.urlopen('http://api.wunderground.com/api/ee7193fad42bdca9/history_20170103/q/NY/Ithaca.json')
 json_string = f.read()
 parsed_json = json.loads(json_string)
