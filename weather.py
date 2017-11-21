@@ -52,7 +52,7 @@ for m in range(1, 13):
 documents = reddit.getDocuments()['documents']
 dateArr = []
 
-for i in range(len(documents)):
+for i in range(101, len(documents)):
 	date = documents[i]['date']
 	if date not in dateArr:
 		dateArr.append(date)
@@ -78,6 +78,7 @@ for i in range(len(documents)):
 		print "Date: %s, Condition: %s, Temperature: %s" % (date, condition, temp)
 		f.close()
 		time.sleep(5)
+
 """
 
 f = urllib2.urlopen('http://api.wunderground.com/api/ee7193fad42bdca9/history_20170103/q/NY/Ithaca.json')

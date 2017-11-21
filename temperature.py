@@ -27,7 +27,7 @@ def coldDates():
 		parts1 = line.split(",")
 		date = parts1[0].split(": ")[1]
 		temperature = parts1[2].split(": ")[1]
-		if int(temperature)<40:
+		if int(temperature)<=45:
 			cold.append(date)
 
 	file.close()
@@ -40,7 +40,7 @@ def mediumDates():
 		parts1 = line.split(",")
 		date = parts1[0].split(": ")[1]
 		temperature = parts1[2].split(": ")[1]
-		if int(temperature)>=40 and int(temperature)<=60:
+		if int(temperature)>45 and int(temperature)<65:
 			medium.append(date)
 
 	file.close()
@@ -53,7 +53,7 @@ def hotDates():
 		parts1 = line.split(",")
 		date = parts1[0].split(": ")[1]
 		temperature = parts1[2].split(": ")[1]
-		if int(temperature)>60:
+		if int(temperature)>=65:
 			hot.append(date)
 
 	file.close()
